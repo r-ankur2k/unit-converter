@@ -58,3 +58,15 @@ h2{
 #number-prompt{
     color: rgb(247, 96, 96);
 }
+a{
+    text-decoration: none;
+}
+.personal{
+    margin-top: 20px;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    color: #442dd8;
+    background-color: rgb(255, 214, 214);
+    line-height: 30px;
+}
