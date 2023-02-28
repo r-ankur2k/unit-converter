@@ -3,7 +3,7 @@ body {
     text-align: center;
     color: white;
     background-color: #aba7c7;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Trebuchet MS;
 }
 #container{
     display: block;
@@ -19,8 +19,8 @@ body {
     display: block;
 }
 input{
-    width: 100px;
-    height: 70px;
+    width: 150px;
+    height: 100px;
     font-size: 40px;
     text-align: center;
     background-color: transparent;
@@ -47,4 +47,13 @@ input{
     color: #433d6b;
     background-color: white;
     line-height: 30px;
+}
+h3{
+    color: rgb(21, 163, 5);
+}
+h2{
+    color: blueviolet;
+}
+#number-prompt{
+    color: rgb(247, 96, 96);
 }
