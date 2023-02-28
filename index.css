@@ -21,13 +21,14 @@ body {
 input{
     width: 150px;
     height: 100px;
-    font-size: 40px;
+    font-size: 50px;
     text-align: center;
     background-color: transparent;
     border: 1px solid whitesmoke;
     border-radius: 8px;
     color: white;
     font-weight: bolder;
+    appearance: textbox;
 }
 #btn{
     margin-top: 20px;
